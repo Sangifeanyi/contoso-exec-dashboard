@@ -1,0 +1,11 @@
+# Power BI
+*.pbix.bak
+
+# Data files (don't commit raw Contoso data — link to the source instead)
+*.csv
+*.bak
+/data/
+
+# OS
+.DS_Store
+Thumbs.db
